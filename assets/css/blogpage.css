@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: system-ui;
+    width: 1440px;
+}
+.container{
+    margin-inline: auto;
+    width: 1110px;
+    margin-block: 80px;
+}
+.header{
+    border-bottom: 1px solid #EAEAEA;
+}
+
+.header h1{
+    width: 824px;    
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    margin-bottom: 28px;
+
+}
+
+.header img{
+    margin-right: 12px;
+    vertical-align: middle;
+    padding-bottom: 16px;
+}
+
+.header span{
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.content p{
+    margin-block: 24px; /* margi-top:24px + margin-bottom:24px; bu iki kodun birleşimi margin block veya margin: 0 24px; bu üçü de aynı kod */
+
+    color: #212121;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+
+.content h2{
+    margin-bottom: 32px;
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: 37px;
+}
+
+.applePc img {
+    float: left;
+}
+.applePc p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.applePc-text h3 {
+   
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    
+}
+
+
+.applePc-text p {
+    font-size: 16px;
+    font-weight: 400; 
+}
+.roald-text{
+    background-color:#ECF1F8 ;
+    padding: 95px 125px;
+    margin-block: 80px;
+}
+
+.roald-text h2{
+    color: #212121;
+
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+
+}
+
+.roald-text p {
+    color: #212121;
+
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+
+
+}
+.appleWatch{
+    margin-bottom: 128px;
+}
+
+.appleWatch img {
+    float: right;
+    margin-left: 24px;
+}
+.appleWatch p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.appleWatch h3 {
+   
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    
+}
+
+
+.appleWatch p {
+    font-size: 16px;
+    font-weight: 400; 
+}
+
+
+.appleWatch img {
+float:right;
+}

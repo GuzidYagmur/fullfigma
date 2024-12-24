@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F3E5D7;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    margin-inline: auto;
+    margin-top:128px ;
+    width: 736px;
+    padding-inline: 40px;   
+    border-radius:  24px;
+    margin-bottom: 128px;
+    
+    background-color: #FFFFFF;
+
+}
+
+.container img{
+    padding-top: 40px;
+    width: 656px;
+    height: 300px;
+    gap: 0px;
+    border-radius:  12px;
+    opacity: 0px;
+
+}
+
+.container h1{
+    padding-top: 40px;
+    color:#312E2C;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+
+
+}
+
+.container p{
+    color: #5F564D;
+    padding-top: 24px;
+    padding-bottom: 32px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.preparation {
+    padding: 24px;
+    background-color: #FFF7FB;
+   
+
+   
+}
+.preparation h3{
+    color:#7A284E;
+    font-size: 24px;
+    font-weight: 600px;
+    
+   
+    
+
+}
+
+.preparation ul{
+    padding-top: 10px;
+    color: #5F564D;
+}
+
+.preparation li{
+   padding-left: 24px;
+   padding-top: 4px;
+   list-style: inside;
+   /* list-style: inside noktaları da içeri alır list style 
+   zaten li'nin sembolleri içindir */
+   font-size: 16px;
+
+}
+.preparation li span{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 16px;
+    
+}
+
+.ingredients{
+    padding: 16px;
+    border-bottom: 1px solid #E3DDD7;
+    margin-bottom: 32px;
+}
+
+.ingredients h3{
+    color:#854632;
+    font-size: 24px;
+}
+
+.ingredients ul{
+    color:#5F564D;
+    padding-top: 10px;
+   
+    
+}
+
+.ingredients li{
+    padding-left: 24px;
+    padding-top: 4px;
+    list-style: inside;
+}
+
+.instructions {
+    padding-top: 32px;
+    padding: 40px;
+    border-bottom: 1px solid #E3DDD7;
+    margin-bottom: 32px;
+
+}
+
+.instructions h3{
+    color:#854632;
+    font-size: 24px;
+
+}
+
+.instructions ol{
+    color: #5F564D;
+
+    
+}
+
+.instructions li{
+    padding-top: 8px;
+    
+}
+
+
+.nutrition{
+    padding: 24px;
+}
+
+.nutrition h3{
+    color: #854632;
+    font-size: 24px;
+}
+
+.nutrition p{
+    color: #5F564D;
+    padding-top: 24px;
+}
+
+.nutrition table{
+    width: 100%;
+   
+}
+
+.nutrition table span{
+
+color:#854632;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+
+}
+
+.nutrition table td{
+    border-bottom:1px solid #E3DDD7;
+}

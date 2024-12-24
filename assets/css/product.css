@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F2EAE2;
+}
+
+.container{
+    background-color:#FFFF;
+    width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    margin-left: 420px;
+    margin-top: 175px;
+    margin-bottom: 175px;
+    
+
+}
+
+.perfume{
+    color: #6C7289;
+    margin-left: 331px;
+    padding-top: 32px;
+    
+}
+
+.container img{
+    float: left;
+    width: 300px;
+    height: 450px;
+}
+
+.gabrielle{
+    margin-left: 331px;
+    margin-top: 8px;
+}
+
+.floral{
+    color:#6C7289;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: left;
+    margin-left: 331px;
+    margin-top: 24px;
+    width: 237px;
+    height: 92px;
+    top: 187px;
+}
+
+.cost h1{
+color: #3D8168;
+margin-left: 332px;
+margin-top: 29px;
+
+}
+
+.cost img{
+width: 48px;
+height: 23px;
+top: 313px;
+left: 478px;
+
+}
+.cost span{
+    margin-top: -25px;
+    margin-left: 120px;
+    float: left;
+    width: 48px;
+    height: 23px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 23px;
+    color: #6C7289;
+    text-decoration: line-through;
+}
+
+.etiket{
+    background-color: #3D8168;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   margin-left: 331px;
+   margin-right: 32px;
+   border-radius: 8px;
+   margin-top: 20px;
+   margin-bottom: 32px;
+   
+
+
+}
+
+.etiket h3{
+    color: #FFFF;
+    margin-left: 89px;
+    
+}
+
+.etiket img{
+    float: left;
+    width: 14.39px;
+    height: 16px;
+    top: 1px;
+    margin-left: 63px;
+
+}
